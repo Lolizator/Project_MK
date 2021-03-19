@@ -1,1 +1,7 @@
-# Project_MK
+# MortalKombat -учебный проект
+## Технологии:
+  - HTML
+  - CSS
+  - jQuery
+  - Normalize
+  - Fancybox
